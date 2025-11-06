@@ -16,5 +16,5 @@
 > 🌟![在这里插入图片描述](https://i-blog.csdnimg.cn/direct/429f9b4d85284ef39b31d818da6e39b1.png#pic_center)
 
 # 小程序扫码获取：
+<img width="1858" height="923" alt="image" src="[https://github.com/user-attachments/assets/5fd4f70b-bbfd-4cdf-a7f2-f08f313c5ff9](https://img12.360buyimg.com/ddimg/jfs/t1/339687/11/1349/28408/68ad865fF412d7877/adaa650483a100f2.jpg)" />
 
-https://img12.360buyimg.com/ddimg/jfs/t1/339687/11/1349/28408/68ad865fF412d7877/adaa650483a100f2.jpg
